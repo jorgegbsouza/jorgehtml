@@ -13,7 +13,6 @@
   <img align="center" alt="jorge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jorge-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jorge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="150em" align="right" alt="goku" src="https://media1.tenor.com/images/2d4bfd489846b7622c0e347312813333/tenor.gif?itemid=9540577">
 </div>
   <br>
 <div> 
