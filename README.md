@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Jorge 👋
 
-- 🔭 Atualmente estou estudando ADS na Fatec Americana
+- 🔭 Atualmente estou cursando ADS na Fatec Americana
 - 🌱 Estou estudando html5, css3 e javascript
 - 📫 Fale comigo pelo meu ig: @jorge.script
 - 😄 Pronouns: Ele/Dele
