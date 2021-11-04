@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou cursando ADS na Fatec Americana
 - 🌱 Estou estudando html5, css3 e javascript
 - 📫 Fale comigo pelo meu ig: @jorge.script
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 <div>
   <a href="https://github.com/jorgehtml">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jorgehtml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
