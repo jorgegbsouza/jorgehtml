@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jorge 👋
 
 - 🔭 Atualmente estou cursando ADS na Fatec Americana
-- 🌱 Estou estudando html5, css3 e javascript
+<!-- - 🌱 Estou estudando html5, css3 e javascript -->
 - 📫 Fale comigo pelo meu ig: @jorge.script
 - 😄 Pronomes: Ele/Dele
 <div>
