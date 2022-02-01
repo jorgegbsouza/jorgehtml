@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jorge 👋
 
 - 🔭 Atualmente estou cursando ADS na Fatec Americana <!-- - 🌱 Estou estudando html5, css3 e javascript -->
-- 📫 Fale comigo pelo meu ig: @jorge.script
+- 📫 Fale comigo pelo meu LinkedIn: in/jorgegbs/
 - 😄 Pronomes: Ele/Dele
 <div>
   <a href="https://github.com/jorgehtml">
@@ -12,6 +12,7 @@
   <img align="center" alt="jorge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jorge-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jorge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="jorge-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
   <br>
 <div> 
