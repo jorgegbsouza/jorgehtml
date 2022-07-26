@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Jorge 👋
 
-- 🔭 Atualmente estou cursando ADS na Fatec Americana <!-- - 🌱 Estou estudando html5, css3 e javascript -->
+- 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas <!-- - 🌱 Estou estudando programação -->
 - 📫 Fale comigo pelo meu LinkedIn: in/jorgegbs/
 - 😄 Pronomes: Ele/Dele
 <div>
