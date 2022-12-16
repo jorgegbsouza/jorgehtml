@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas <!-- - 🌱 Estou estudando programação -->
 - 📫 Fale comigo pelo meu LinkedIn: in/jorgegbs/
-- 😄 Pronomes: Ele/Dele
 <div>
   <a href="https://github.com/jorgehtml">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jorgehtml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
