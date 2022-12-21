@@ -8,13 +8,13 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgehtml&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="jorge-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jorge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jorge-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="jorge-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  #Imagem do VBA retirada do github do WillianROM (https://github.com/WillianROM)
-  <img src="https://github.com/WillianROM/WillianROM/blob/main/.github/imagem/vba.png" height="30" width="42" alt="vba logo"  />
-  <img align="center" alt="jorge-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="HTML-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MySQL-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <!-Imagem do VBA retirada do github do WillianROM (https://github.com/WillianROM)->
+  <img align="center" alt="vba-logo" height="30" width="40" src="https://github.com/WillianROM/WillianROM/blob/main/.github/imagem/vba.png"/>
+  <img align="center" alt="vscode-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
   <br>
 <div> 
