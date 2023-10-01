@@ -25,7 +25,7 @@
   <img align="center" alt="MySQL-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <!-Imagem do VBA retirada do github do WillianROM (https://github.com/WillianROM)->
   <img align="center" alt="vba-logo" height="30" width="40" src="https://github.com/WillianROM/WillianROM/blob/main/.github/imagem/vba.png"/>
-  <img align="center" alt="vscode-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="vscode-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   <br>
 <div> 
